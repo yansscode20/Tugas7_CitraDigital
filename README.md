@@ -53,7 +53,7 @@ Citra Ijazah → Grayscale → Image Enhancement
    ```
 3. Jalankan notebook:
    ```bash
-   jupyter notebook F1G124069_miniproject_citra_digital.ipynb
+   jupyter notebook Tugas7_CitraDigital.ipynb
    ```
    Lalu pilih **Run → Run All Cells**. Citra dibaca dari folder `data/`.
 
