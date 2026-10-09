@@ -15,7 +15,7 @@ Tanda Tangan : PRESENT
 
 | File | Keterangan |
 |---|---|
-| `Tugas7_CitraDigital` | Seluruh kode (pipeline, OCR, deteksi tanda tangan, evaluasi CER) beserta outputnya |
+| `Tugas7_CitraDigital.ipynb` | Seluruh kode (pipeline, OCR, deteksi tanda tangan, evaluasi CER) beserta outputnya |
 | `Hasil.md` | Hasil pengujian, penjelasan metode, dan analisis metode enhancement berdasarkan CER |
 | `data/` | `ijazah_001.jpg` (asli), `ijazah_hanya_dekan.jpg` dan `ijazah_tanpa_ttd.jpg` (citra uji) |
 | `requirements.txt` | Daftar library Python |
@@ -33,7 +33,7 @@ Citra Ijazah → Grayscale → Image Enhancement
 ## Cara Menjalankan (How to Run)
 
 ### Opsi A — Google Colab (paling mudah)
-1. Buka <https://colab.research.google.com>, pilih **File → Upload notebook**, lalu unggah `F1G124069_miniproject_citra_digital.ipynb`.
+1. Buka <https://colab.research.google.com>, pilih **File → Upload notebook**, lalu unggah `Tugas7_CitraDigital.ipynb`.
 2. Di panel kiri (ikon folder), buat folder `data` lalu unggah citra ijazah ke dalamnya. Jika folder `data` kosong, Sel 2 akan menampilkan dialog upload otomatis.
 3. Jalankan semua sel: **Runtime → Run all**. Sel 1 memasang Tesseract dan library secara otomatis.
 4. Hasil `Nomor Ijazah` dan `Tanda Tangan` tampil di Sel 7.
