@@ -15,7 +15,7 @@ Tanda Tangan : PRESENT
 
 | File | Keterangan |
 |---|---|
-| `F1G124069_miniproject_citra_digital.ipynb` | Seluruh kode (pipeline, OCR, deteksi tanda tangan, evaluasi CER) beserta outputnya |
+| `Tugas7_CitraDigital` | Seluruh kode (pipeline, OCR, deteksi tanda tangan, evaluasi CER) beserta outputnya |
 | `Hasil.md` | Hasil pengujian, penjelasan metode, dan analisis metode enhancement berdasarkan CER |
 | `data/` | `ijazah_001.jpg` (asli), `ijazah_hanya_dekan.jpg` dan `ijazah_tanpa_ttd.jpg` (citra uji) |
 | `requirements.txt` | Daftar library Python |
